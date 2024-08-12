@@ -1,4 +1,4 @@
 # placement_ccfd
-Credit Card detection using Machine learning
+Credit Card Fraud detection using Machine learning
 
 Random Forest fo Classifcation
